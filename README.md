@@ -1,6 +1,12 @@
 "# front20251-produto1" 
 
-<img src="img/Home.png" alt="Texto Alternativo"># Comando para iniciar a branch do meu controle
+<img src="img/Home.png" alt="Texto Alternativo">
+<img src="img/Menu.png.png" alt="Texto Alternativo">
+<img src="img/Lista_Padrao.png" alt="Texto Alternativo">
+<img src="img/Edicao_Padrao.png" alt="Texto Alternativo">
+
+
+# Comando para iniciar a branch do meu controle
 
 ``` bash
 git clone https://github.com/ProjetoProfJames/front20251-produto1.git
